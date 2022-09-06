@@ -10,13 +10,13 @@ function getNav() {
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item text-end">
-          <a class="nav-link text-light active" aria-current="page" href="sobre_mim.html">Sobre mim</a>
+          <a class="nav-link text-light active" aria-current="page" href="src/view/sobre_mim.html">Sobre mim</a>
         </li>
         <li class="nav-item text-end">
-          <a class="nav-link text-light" href="formacao.html">Formação</a>
+          <a class="nav-link text-light" href="src/view/formacao.html">Formação</a>
         </li>
         <li class="nav-item text-end">
-          <a class="nav-link text-light" href="contato.html">Contato</a>
+          <a class="nav-link text-light" href="src/view/contato.html">Contato</a>
         </li>
       </ul>
     </div>
