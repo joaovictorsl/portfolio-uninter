@@ -1,0 +1,16 @@
+input {
+  border-width: 0ch;
+  border-bottom-width: 1px;
+  background-color: transparent;
+  color: white;
+  font-size: 36px;
+}
+
+input:focus {
+  outline: none;
+}
+
+span {
+  color: white;
+  font-size: 36px;
+}

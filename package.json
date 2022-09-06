@@ -1,0 +1,18 @@
+{
+  "name": "projeto_curriculo",
+  "version": "1.0.0",
+  "description": "Projeto de currículo para trabalho da cadeira de Programação Web do curso Tecnólogo em Ciência de Dados da Uninter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Currículo",
+    "Trabalho"
+  ],
+  "author": "João Victor de Souza Lucena",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0"
+  }
+}
