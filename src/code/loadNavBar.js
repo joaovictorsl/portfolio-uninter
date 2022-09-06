@@ -2,7 +2,7 @@
 function getNav() {
   return `<nav class="navbar navbar-expand-lg bg-transparent position-absolute w-100">
   <div class="container-fluid">
-    <a class="navbar-brand text-light" href="index.html">JVSL</a>
+    <a class="navbar-brand text-light" href="https://joaovictorsl.github.io/portfolio-uninter">JVSL</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fa-solid fa-bars" style="color: white;"></i>
