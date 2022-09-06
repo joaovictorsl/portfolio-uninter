@@ -10,13 +10,13 @@ function getNav() {
     <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item text-end">
-          <a class="nav-link text-light active" aria-current="page" href="src/view/sobre_mim.html">Sobre mim</a>
+          <a class="nav-link text-light active" aria-current="page" href="https://joaovictorsl.github.io/portfolio-uninter/src/view/sobre_mim.html">Sobre mim</a>
         </li>
         <li class="nav-item text-end">
-          <a class="nav-link text-light" href="src/view/formacao.html">Formação</a>
+          <a class="nav-link text-light" href="https://joaovictorsl.github.io/portfolio-uninter/src/view/formacao.html">Formação</a>
         </li>
         <li class="nav-item text-end">
-          <a class="nav-link text-light" href="src/view/contato.html">Contato</a>
+          <a class="nav-link text-light" href="https://joaovictorsl.github.io/portfolio-uninter/src/view/contato.html">Contato</a>
         </li>
       </ul>
     </div>
